@@ -1,1 +1,1 @@
-# 2025573010049_project
+# 2025573010049_strukturdataalgoritma
